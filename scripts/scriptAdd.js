@@ -7,5 +7,5 @@ function loadHTML(url, elementId) {
   }
   
   loadHTML('header.html', 'header');
-  loadHTML('content.html', 'content');
+  loadHTML('main.html', 'main');
   loadHTML('footer.html', 'footer');
